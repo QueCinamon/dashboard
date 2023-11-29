@@ -3,7 +3,7 @@ pandas
 datetime
 calendar
 os
-plotly.express
+plotly
 plotly.subplots
 streamlit
 altair
