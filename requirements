@@ -1,0 +1,14 @@
+numpy
+pandas
+datetime
+calendar
+os
+plotly.express
+plotly.subplots
+streamlit
+altair
+seaborn
+matplotlib
+streamlit_extras.dateframe_exlorer
+streamlit_option_menu
+streamlit_extras.metric_cards
