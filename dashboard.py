@@ -20,7 +20,7 @@ st.set_page_config( page_icon= ':bar_chart:', layout= 'wide',page_title= 'Stream
 st.markdown('<style>div.block-container{padding-top:1rem;}</style>', unsafe_allow_html= True)
 
 # Load data
-data= github.com/QueCinamon/dashboard/blob/main/Sample%20Superstore%20WB.xlsx
+data= 'github.com/QueCinamon/dashboard/blob/main/Sample%20Superstore%20WB.xlsx'
 df= pd.read_excel(data)
 
 # File upload
