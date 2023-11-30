@@ -1,10 +1,8 @@
 numpy
 pandas
-datetime
 calendar
 os
 plotly
-plotly.subplots
 streamlit
 altair
 seaborn
